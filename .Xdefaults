@@ -1,0 +1,4 @@
+Xft.antialias: true
+
+XTerm*faceName: Consolas
+XTerm*faceSize: 13
